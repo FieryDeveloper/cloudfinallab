@@ -1,9 +1,9 @@
 # OneStop
 
-<img src="4937879.jpg" alt="Shopping" width="200"/>
+<img src="4937879.jpg" alt="Shopping" height="400" width="600"/>
 
 ## Quotes
-- "Shop 'til you drop, all in one place!" - Anonymous
+ - "Shop 'til you drop, all in one place!" - Anonymous
 - "Convenience at its finest." - OneStop User
 - "Find everything you need, and more." - Happy Shopper
 
