@@ -1,6 +1,6 @@
 # OneStop
 
-![Shopping](shopping_image.jpg)
+![Shopping](4937879.jpg)
 
 ## - Shop til you drop, all in one place!
 ## - Convenience at its finest. - OneStop User
@@ -11,7 +11,7 @@
 ![Home Page](Homw.png)
 
 ## List Creating Page
-![List Creating Page](listcreating.png)
+![List Creating Page](createlisting.png)
 
 ## Product Directory Page
 ![Product Directory Page](listingdir.png)
