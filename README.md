@@ -1,34 +1,38 @@
 # OneStop
 
-![Shopping](4937879.jpg)
+<img src="4937879.jpg" alt="Shopping" width="200"/>
 
-## - Shop til you drop, all in one place!
-## - Convenience at its finest. - OneStop User
-## - Find everything you need, and more.
+## Quotes
+- "Shop 'til you drop, all in one place!" - Anonymous
+- "Convenience at its finest." - OneStop User
+- "Find everything you need, and more." - Happy Shopper
 
+## Screenshots
 
-## Home Page
-![Home Page](Homw.png)
+### Home Page
+<img src="Homw.png" alt="Home Page" width="200"/>
 
-## List Creating Page
-![List Creating Page](createlisting.png)
+### List Creating Page
+<img src="createlisting.png" alt="List Creating Page" width="200"/>
 
-## Product Directory Page
-![Product Directory Page](listingdir.png)
+### Product Directory Page
+<img src="listingdir.png" alt="Product Directory Page" width="200"/>
 
-## About Page
-![About Page](aboutsso.png)
+### About Page
+<img src="aboutsso.png" alt="About Page" width="200"/>
 
-## User Profile Page
-![User Profile Page](userprof.png)
+### User Profile Page
+<img src="userprof.png" alt="User Profile Page" width="200"/>
 
 ## Dockerized Application
-![Docker](docker.png)
+<img src="docker.png" alt="Docker" width="200"/>
 
-After signup/sign-in , the user may access their Gmail Account for mail orders and can access youtube for marketing campaigns directly without multiple logins.
+After signup/sign-in, the user may access their Gmail Account for mail orders and can access YouTube for marketing campaigns directly without multiple logins.
+
 ## Docker Details
 
 This project is Dockerized for easy deployment. Follow these steps to run the project:
+
 
 1. Clone the repository
 2. Navigate into the prject directory:
