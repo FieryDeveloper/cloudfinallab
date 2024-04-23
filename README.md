@@ -1,6 +1,6 @@
 # OneStop
 
-<img src="4937879.jpg" alt="Shopping" height="400" width="600" content-align="center"/>
+<img src="4937879.jpg" alt="Shopping" height="400" width="600"/>
 
 ## Quotes
  - "Shop 'til you drop, all in one place!" - Anonymous
@@ -10,22 +10,22 @@
 ## Screenshots
 
 ### Home Page
-<img src="Homw.png" alt="Home Page" width="200"/>
+<img src="Homw.png" alt="Home Page" height="400" width="600"/>
 
 ### List Creating Page
-<img src="createlisting.png" alt="List Creating Page" width="200"/>
+<img src="createlisting.png" alt="List Creating Page" height="400" width="600"/>
 
 ### Product Directory Page
-<img src="listingdir.png" alt="Product Directory Page" width="200"/>
+<img src="listingdir.png" alt="Product Directory Page" height="400" width="600"/>
 
 ### About Page
-<img src="aboutsso.png" alt="About Page" width="200"/>
+<img src="aboutsso.png" alt="About Page" height="400" width="600"/>
 
 ### User Profile Page
-<img src="userprof.png" alt="User Profile Page" width="200"/>
+<img src="userprof.png" alt="User Profile Page" height="400" width="600"/>
 
 ## Dockerized Application
-<img src="docker.png" alt="Docker" width="200"/>
+<img src="docker.png" alt="Docker" height="400" width="600"/>
 
 After signup/sign-in, the user may access their Gmail Account for mail orders and can access YouTube for marketing campaigns directly without multiple logins.
 
