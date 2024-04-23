@@ -10,7 +10,7 @@
 ## Screenshots
 
 ### Home Page
-<img src="Homw.png" alt="Home Page" height="400" width="600"/>
+<img src="Homw.png" alt="Home Page" height="400" width="900"/>
 
 ### List Creating Page
 <img src="createlisting.png" alt="List Creating Page" height="400" width="600"/>
