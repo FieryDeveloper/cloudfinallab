@@ -13,19 +13,19 @@
 <img src="Homw.png" alt="Home Page" height="400" width="900"/>
 
 ### List Creating Page
-<img src="createlisting.png" alt="List Creating Page" height="400" width="600"/>
+<img src="createlisting.png" alt="List Creating Page" height="400" width="900"/>
 
 ### Product Directory Page
-<img src="listingdir.png" alt="Product Directory Page" height="400" width="600"/>
+<img src="listingdir.png" alt="Product Directory Page" height="400" width="900"/>
 
 ### About Page
-<img src="aboutsso.png" alt="About Page" height="400" width="600"/>
+<img src="aboutsso.png" alt="About Page" height="400" width="900"/>
 
 ### User Profile Page
-<img src="userprof.png" alt="User Profile Page" height="400" width="600"/>
+<img src="userprof.png" alt="User Profile Page" height="400" width="900"/>
 
 ## Dockerized Application
-<img src="docker.png" alt="Docker" height="400" width="600"/>
+<img src="docker.png" alt="Docker" height="400" width="900"/>
 
 After signup/sign-in, the user may access their Gmail Account for mail orders and can access YouTube for marketing campaigns directly without multiple logins.
 
