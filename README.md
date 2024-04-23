@@ -1,28 +1,51 @@
 # OneStop
 
-<img src="4937879.jpg" alt="Shopping" height="400" width="600"/>
+<p align="center">
+  <img src="4937879.jpg" alt="Shopping" width="200"/>
+</p>
 
 ## Quotes
- - "Shop 'til you drop, all in one place!" - Anonymous
+- "Shop 'til you drop, all in one place!" - Anonymous
 - "Convenience at its finest." - OneStop User
 - "Find everything you need, and more." - Happy Shopper
 
 ## Screenshots
 
-### Home Page
-<img src="Homw.png" alt="Home Page" height="400" width="900"/>
+<p align="center">
+  <img src="Homw.png" alt="Home Page" width="200"/>
+</p>
 
-### List Creating Page
-<img src="createlisting.png" alt="List Creating Page" height="400" width="900"/>
+<p align="center">
+  <img src="createlisting.png" alt="List Creating Page" width="200"/>
+</p>
 
-### Product Directory Page
-<img src="listingdir.png" alt="Product Directory Page" height="400" width="900"/>
+<p align="center">
+  <img src="listingdir.png" alt="Product Directory Page" width="200"/>
+</p>
 
-### About Page
-<img src="aboutsso.png" alt="About Page" height="400" width="900"/>
+<p align="center">
+  <img src="aboutsso.png" alt="About Page" width="200"/>
+</p>
 
-### User Profile Page
-<img src="userprof.png" alt="User Profile Page" height="400" width="900"/>
+<p align="center">
+  <img src="userprof.png" alt="User Profile Page" width="200"/>
+</p>
+
+## Firebase Authentication
+
+<p align="center">
+  <img src="firebase.png" alt="Firebase" width="200"/>
+</p>
+
+Firebase Authentication is used to provide secure user authentication for OneStop.
+
+## MongoDB Atlas
+
+<p align="center">
+  <img src="mongo.png" alt="MongoDB Atlas" width="200"/>
+</p>
+
+MongoDB Atlas is being used for data analysis and visualization in OneStop.
 
 ## Dockerized Application
 <img src="docker.png" alt="Docker" height="400" width="900"/>
