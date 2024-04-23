@@ -1,6 +1,6 @@
 # OneStop
 
-<img src="4937879.jpg" alt="Shopping" height="400" width="600"/>
+<img src="4937879.jpg" alt="Shopping" height="400" width="600" content-align="center"/>
 
 ## Quotes
  - "Shop 'til you drop, all in one place!" - Anonymous
